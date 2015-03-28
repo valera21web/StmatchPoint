@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Stmatchpoint</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="page_about_us">O stowarzyszeniu</string>
+    <string name="page_news">Aktualności</string>
+    <string name="page_clubs">Kluby</string>
+    <string name="page_documents">Documents</string>
+    <string name="page_gallery">Galeria</string>
+    <string name="page_sponsors_and_partners">Sponsorzy i partnerzy</string>
+    <string name="page_contakt">Kontakt</string>
+
+    <string name="page_about_us_administration">Zarząd</string>
+    <string name="page_about_us_about_us">O nas</string>
+    <string name="page_about_us_support_us">Wesprzyj nas</string>
+
+    <string name="page_news_news">Bieżące wydarzenia</string>
+    <string name="page_news_archive">Za nami</string>
+    <string name="page_news_results_players">Results players</string>
+    <string name="page_news_info_events">Informacje o składanych wnioskach</string>
+
+    <string name="page_documents_statute">Statute</string>
+    <string name="page_documents_protocols">Protocols</string>
+
+</resources>
